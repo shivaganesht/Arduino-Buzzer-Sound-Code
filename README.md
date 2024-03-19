@@ -1,10 +1,10 @@
 # Arduino Buzzer Sound Code
 
-This Arduino project demonstrates how to create sound using a buzzer connected to the Arduino board. The buzzer will produce sound with intervals of five seconds.
+This Arduino project demonstrates creating sound using a buzzer connected to the Arduino board. The buzzer will produce sound with intervals of five seconds.
 
 ## Installation
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/arduino-buzzer-sound-code.git`
+1. Clone this repository to your local machine using `git clone https://github.com/shivaganesht/Arduino-Buzzer-Sound-Code.git`
 2. Open the project in the Arduino IDE.
 
 ## Usage
