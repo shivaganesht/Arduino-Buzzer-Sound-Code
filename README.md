@@ -19,14 +19,14 @@ This Arduino project demonstrates creating sound using a buzzer connected to the
 ```cpp
 void setup()
 {
-    pinMode(LED_BUILTIN, OUTPUT); // Set the built-in LED pin as an output
+    pinMode(LED_BUILTIN, OUTPUT); // Set the built-in Buzzer pin as an output
 }
 
 void loop()
 {
-    digitalWrite(LED_BUILTIN, HIGH); // Turn the LED on
+    digitalWrite(LED_BUILTIN, HIGH); // Turn the Buzzer Sound on
     delay(5000); // Wait for five seconds
-    digitalWrite(LED_BUILTIN, LOW); // Turn the LED off
+    digitalWrite(LED_BUILTIN, LOW); // Turn the Buzzer Sound off
     delay(5000); // Wait for five seconds
 }
 ```
